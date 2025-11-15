@@ -1,0 +1,5 @@
+streamlit
+nltk
+python-docx
+PyPDF2
+pillow
